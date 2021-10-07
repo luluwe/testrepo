@@ -1,0 +1,64 @@
+
+Cost, insurance, and freight (CIF) is an international shipping agreement, which represents the charges paid by a seller to cover the costs, insurance, and freight of a buyer's order while the cargo is in transit. Cost, insurance, and freight only applies to goods transported via a waterway, sea, or ocean.
+
+The goods are exported to the buyer's port named in the sales contract. Until the goods are delivered to the buyer's destination port, the seller bears the costs of any loss or damage to the product. Further, if the product requires additional customs duties, export paperwork, or inspections or rerouting, the seller must cover these expenses.
+
+However, once the goods have reached the buyer's port of destination, the buyer assumes responsibility for any fees or charges for unloading and delivering the shipment to the final destination. CIF is similar to carriage and insurance paid to (CIP), but CIF is used for only sea and waterway shipments, while CIP can be used for any mode of transport, such as by truck.
+
+The contract terms of CIF define when the liability of the seller ends and the liability of the buyer begins. CIF is only used when shipping goods overseas or via a waterway.
+
+The seller has the responsibility for paying the cost and freight of shipping the goods to the buyer's port of destination. Usually, exporters who have direct access to ships will use CIF. However, the buyer has responsibilities as well, which are outlined below.
+
+Under CIF terms, the seller's responsibilities include:
+
+The seller must deliver the goods to the ship within the agreed-upon timeframe and provide proof of delivery and loading.
+
+Once the goods have arrived at the buyer's destination port, the buyer assumes responsibility for the costs associated with importing and delivering the goods. Some of these costs include the following:
+
+It's important to note that when shipping internationally, there can be different risk and cost transfer points between the buyer and seller, depending on the type of shipping agreement. Under CIF, the risk transfer is at a different point than the cost transfer. The exact details of the contract will determine when the liability for the goods transfers from seller to buyer.
+
+Since the seller pays the shipping, freight, and insurance costs until the cargo arrives at the buyer's destination port, the cost transfer occurs when the goods have arrived at the buyer's port. However, the risk transfer occurs from the seller to the buyer when the goods have been loaded on the vessel. Although the seller must purchase insurance, the buyer has ownership of the goods once loaded onto the ship, and if the goods have been damaged during transit, the buyer must file a claim with the seller's insurance company.
+
+Since the buyer assumes the risk only when the cargo has been loaded on the vessel, certain situations may not be suitable for a CIF agreement. For example, with containerized cargo shipments, the goods may sit in a container for days before being loaded onto the vessel at the seller's port. Under CIF, the buyer would be at risk since the goods would not be insured while they sit in the container waiting to be loaded on the vessel. As a result, CIF agreements would not be appropriate for shipments, including containerized cargo.
+CIF is different from cost and freight provision (CFR) whereby sellers are not required to insure goods in transit.
+CIF is one of the international commerce terms known as Incoterms. Incoterms are common trade rules developed by the International Chamber of Commerce (ICC) in 1936. The ICC established these terms to govern the shipping policies and responsibilities of buyers and sellers who engage in international trade. Incoterms are often similar to domestic terms (such as the U.S. Uniform Commercial Code) but with international applications.
+
+For example, the parties to a contract must state the locale of the governing law for their terms. The ICC limits the use of CIF when transporting goods to only those that move via inland waterways or by sea. The ICC's official definition of CIF reads:
+
+Over the years, the International Chamber of Commerce (ICC) has made changes to the terms and guidelines for international trade. In 2020, the ICC made adjustments to the rules, (called Incoterms 2020), which in part, made changes to security requirements for shipments.
+
+Incoterms 2020 also made changes to the insurance coverage requirements under CIF agreements. Sellers are now required to obtain a higher level or more comprehensive insurance than what was required under Incoterms 2010.
+There are seven Incoterms 2020 rules for any type of transport and four Incoterms rules for sea and inland waterway transports.
+Cost, insurance, and freight (CIF) and Free on Board (FOB) are both international shipping agreements but have distinct differences between them.
+
+CIF is an international agreement between a buyer and seller in which the seller has responsibility for the cost, insurance, and freight of a sea or waterway shipment. Although the possession of the shipment transfers to the buyer once the goods have been loaded on the boat or ship, the seller is responsible for any shipping insurance and freight charges.
+
+As a result, the seller is responsible for the costs of moving the shipment until the goods have arrived at the buyer's destination port. Some of these costs include fees for shipping, export customs clearance, duty, and taxes.
+
+Once the goods have been delivered to the buyer's destination port, the buyer must pay the agreed price for the goods and is responsible for any import fees, taxes, or custom duty charges. Also, any transportation, inspection, and licensing costs as well as the cost to transport the goods to their final location are the buyer's responsibility.
+
+Free on Board means the seller has the responsibility for delivering and loading the product onto the ship, including any costs associated with that process. However, the responsibilities transfer to the buyer once the goods have been loaded onto the ship.
+
+The seller has the following responsibilities under FOB:
+
+Under FOB, the buyer has the following responsibilities:
+
+It's important to note that there are different types of FOB agreements and the insurance coverage can be negotiated between the buyer and seller. In other words, there could be an agreement in which the buyer pays the freight charges or cost of delivery but the seller might agree to pay for the marine insurance.
+
+CIF and FOB are helpful since these shipping agreements outline whether the buyer or seller has the responsibility for the freight during the shipment. These terms are important since they indicate which parties are responsible for insurance, freight charges, and which party is held responsible in the event the goods are damaged during transport.
+
+As an example, let's say that Best Buy has ordered 1,000 flat-screen televisions from Sony using a CIF agreement to Kobe, a Japanese port. Sony has delivered the order to the port and loaded the product onto the ship for transport. Once loading has been completed, the risk of loss is transferred from Sony to Best Buy. In return, Sony has purchased insurance and pays the freight and shipping costs until the ordered goods reach the buyer's port of destination.
+
+While the ship is en route, a fire breaks out in one of the cargo bays. The cargo is damaged due to the fire and the water during fire fighting efforts. Since a CIF agreement was in place, Best Buy can file an insurance claim to cover the cost of the damaged goods.
+
+Cost, insurance, and freight (CIF) is an international shipping agreement used when freight is shipped via sea or waterway. Under CIF, the seller is responsible for covering the costs, insurance, and freight of the buyer's shipment while in transit. The buyer is responsible for any costs once the freight has reached the buyer's destination port.
+
+The seller must pay for the costs of transferring and shipping the freight as well as insuring the cargo until the goods have been delivered to the buyer's port.
+
+Duty charges for exporting the goods from the seller's port of destination are the responsibility of the seller. However, duty charges at the buyer's port of destination (import duties) are the responsibility of the buyer.
+
+CIF is only used when shipping goods via ocean or waterway, meaning CIF cannot be used for air freight. CIF can be easier for buyers who don't want to go through the trouble of obtaining insurance, paying freight charges, and assuming all of the responsibility for shipping internationally.
+
+Cost, insurance, and freight (CIF) is an international shipping term that describes the seller's responsibility for the cost of shipping, freight charges, and insuring the cargo being shipped via ocean or waterway. CIF means that the seller is responsible for the costs of transporting the cargo and obtaining insurance to protect the buyer from any damages to the goods during transport. However, the buyer assumes responsibility for the goods once the cargo has reached the buyer's port.
+
+CIF is different from cost and freight (CFR), which is when the seller is responsible for the shipping and freight costs, but under CFR, the seller is not responsible for obtaining marine insurance. There are various types of international shipping agreements, including cost, insurance, and freight (CIF), free on board (FOB), and cost and freight (CFR). As a result, it's important that buyers and sellers understand all of the legal terms within these agreements before engaging in international trade.

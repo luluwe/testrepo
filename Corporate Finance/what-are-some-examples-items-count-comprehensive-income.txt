@@ -1,0 +1,14 @@
+
+In business accounting, other comprehensive income (OCI) includes revenues, expenses, gains, and losses that have yet to be realized and are excluded from net income on an income statement. OCI represents the balance between net income and comprehensive income. A common example of OCI is a portfolio of bonds that have not yet matured and consequently haven't been redeemed. Gains or losses from the changing value of the bonds cannot be fully determined until the time of their sale; the interim adjustments are thus recognized in other comprehensive income.
+
+Corporate income can be broken down in a multitude of ways. To compensate for this, the Financial Accounting Standards Board (FASB) requires companies to use universal measurements to help provide investors and analysts with clear, easily accessible information on a company's financial standing. The Statement of Financial Accounting Standards No. 130, published by the FASB and entitled "Reporting Comprehensive Income," reads:
+
+OCI can be found as a line item on a company's balance sheet, located under the equity section of the document. OCI may also be listed under a related statement called the "consolidated statement of equity." OCI and accumulated other comprehensive income are important measures for valuing larger corporations' financial health.
+
+Any held investment classified as available for sale, which is a non-derivative asset not intended to be held until maturity and isn't a loan or a receivable, may be recognized as comprehensive income.
+
+The previously mentioned bond portfolio is such an asset, as long as the business does not classify the bonds as held-to-maturity. Any change in the value of the available-for-sale asset may be included.
+
+Foreign currency transactions can create gains or losses if the balance of a company's currency holdings fluctuates, which they frequently do. But the only companies which truly need to pay attention to foreign currency-derived comprehensive income are large firms that deal in many different currencies.
+
+Pension plans can also create comprehensive income. If the value of the plan increases, the difference between the old value and new value can be recognized as comprehensive, minus any distributions to pension recipients.

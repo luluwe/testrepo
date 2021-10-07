@@ -1,0 +1,49 @@
+
+A quarter is a three-month period on a company's financial calendar that acts as a basis for periodic financial reports and the paying of dividends. A quarter refers to one-fourth of a year and is typically expressed as Q1 for the first quarter, Q2 for the second quarter, and so forth. For example, a quarter is often shown with its relevant year, as in Q1 2021 or Q121, which represents the first quarter of the year 2021.
+
+Most financial reporting and dividend payments are done quarterly. Not all companies will have fiscal quarters that correspond to calendar quarters and it is common for a company to close their fourth quarter after their busiest time of year. Dividends are also often paid quarterly although many companies outside the U.S. may not dividends evenly.
+
+Companies have two main accounting periods—the fiscal quarter and the fiscal year (FY). The fiscal year for most companies runs from Jan. 1 to Dec. 31 (although it doesn't have to). The standard calendar quarters that make up the year are as follows:
+
+Some companies have fiscal years that follow different dates. Costco Wholesale Corporation's fiscal year begins in September and ends in the following August. Thus, its fiscal fourth-quarter includes June, July, and August.
+Fiscal quarters for a company will coincide with their fiscal year (FY).
+Companies, investors, and analysts use data from different quarters to make comparisons and evaluate trends. For example, it is common for a company’s quarterly report to be compared to the same quarter of the previous year. Many companies are seasonal which would make a comparison over sequential quarters misleading.
+
+A retail company could earn half its annual profits in the fourth quarter while a construction company does most of its business in the first three quarters. In this situation, comparing the first quarter results for a department store to their performance during the fourth quarter would indicate an alarming drop in sales.
+
+Evaluating a seasonal company during its slow quarters can be enlightening. It is reasonable to assume that if sales and profits are growing in the off-quarters when compared to the same quarter in prior years, the intrinsic strength of the company is also improving.
+
+For example, auto dealers typically have a slow first quarter and rarely conduct incentive sales programs in February and March. Thus, if an auto dealer saw significant improvement in sales in the first quarter, this year compared to last, it may indicate the potential for surprisingly strong sales in the second and third quarters as well.
+
+Quarterly earnings reports are important for publicly traded companies and their investors. Each release has the potential to affect the value of a company’s stock. If a company has a good quarter, its stock value may increase. If the company has a poor quarter the value of its stock could drop dramatically.
+
+All public companies in the U.S. must file quarterly reports, known as Form 10-Q, with the Securities and Exchange Commission (SEC) at the end of their first three fiscal quarters. Each 10-Q includes unaudited financial statements and operations information for the previous three months (quarter).
+
+A publicly traded company must also file an annual report, known as Form 10-K. The annual report will often include more detailed information than the quarterly reports including an audit statement, presentations, and additional disclosures.
+
+The quarterly earnings report often includes forward-looking “guidance” for what management expects from the next few quarters or through the end of the year. These estimates are used by analysts and investors to develop their expectations for performance over the next few quarters.
+
+The estimates and guidance provided by analysts and management can have a big impact on a stock every three months. If management issues guidance for the next quarter that is worse than expected, the stock’s price will drop. Similarly, if management issues guidance—or an analyst upgrade their independent estimates—the stock can rise significantly.
+
+In the U.S., most companies that pay a dividend will distribute it more or less evenly over four quarters. In many economies outside the U.S., it is common to split the annual dividend into quarterly payments with one of the payments being much larger than the others. It is also not unusual to find companies outside the U.S. that only pay one dividend per year.
+
+The payment of quarterly dividends can create some volatility in a stock's price when the ex-date arrives. Some analysts have noticed that investors may rebalance or sell their stock on the ex-date or soon after when the dividend growth rate appears to be slowing or other changes in the market make the dividend less attractive.
+
+For a variety of reasons, some public companies will use a non-standard or non-calendar quarterly reporting system. In addition, certain governments use different quarter systems. The first quarter of the U.S. federal government’s fiscal year is October, November, and December. State governments may also have their own fiscal calendars.
+
+Sometimes a company may have a non-standard fiscal year to help with business or tax planning. The Internal Revenue Service (IRS) allows companies to choose a “tax year” that is still 52-53 weeks long but does not end in December.
+
+H&R Block (HRB) ends its fiscal year on April 30th, which makes sense because that is the end of the busiest part of the company’s year.
+
+Releasing an annual report, which may be accompanied by shareholder meetings and additional disclosures, after the busiest part of your year helps managers and shareholders make better decisions about the year ahead.
+
+Companies that rely on U.S. government contracts may use September as the end of their fiscal year, and the fourth quarter because that is when they expect new projects to be closed and budget planning from the government to be available. Meanwhile, some companies have very unusual quarterly systems.
+
+Some have questioned the importance of the quarterly reporting system. The big argument against the setup is that it puts too much pressure on companies and executives to deliver short-term results to please analysts and investors as opposed to focusing on the long-term interests of the business.
+
+The other issue is that companies report their summary annual statements once per year, so the information can become stale and out of date in between the annual reporting cycle. One approach to solve this problem is to use a trailing four quarters or trailing 12 months (TTM) analysis.
+
+By the middle of the fourth quarter of 2021, the annual data for 2021 can be estimated by summarizing the last four quarters. In this case, assume that the company’s third-quarter 2021 results are available. An analyst would manually combine the quarterly data from the first three quarters of 2021 with the last quarter of 2020 to estimate the company’s earnings and revenue trends.
+
+This analysis will overlap some of the data used in the last annual report, but it will still give some insight into how 2021 is likely to look by the end of the year. If the first three quarters of 2021 had been poor compared to the first three-quarters of 2020, the trailing-four-quarter analysis will show that.
+A fiscal quarter is a three-month period in which a company reports its financial results. As its name suggests, there are four quarterly periods in a year, meaning a publicly traded company would issue four quarterly reports per year. Companies and investors alike use fiscal quarters to keep track of their financial results and business developments over time. These quarters are often referred to as Q1, Q2, Q3, and Q4.Quarters do not always line up with the calendar year. For instance, if a company chooses to have its fiscal year starting in February rather than January, then its first quarter would consist of February, March, and April. Companies sometimes choose to do this if they want their fiscal year to end in their own peak season.  Alternatively, since finishing the year often involves a lot of additional accounting work, some companies choose to end their fiscal year on a relatively calm month.The main advantage of quarterly reporting is that it allows investors more information on which to base their investment decisions. Rather than waiting until a company files its annual report, investors can read their quarterly filings to get a sense of how the business is progressing throughout the year. This added transparency also benefits journalists and regulators. Some have argued, however, that quarterly reporting makes companies and investors more oriented toward short-term results.
